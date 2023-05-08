@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sumsub_applicants",
+  "info": {
+    "singularName": "sumsub-applicant",
+    "pluralName": "sumsub-applicants",
+    "displayName": "sumsub_applicant"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "applicantId": {
+      "type": "string"
+    },
+    "userId": {
+      "type": "string"
+    }
+  }
+}
